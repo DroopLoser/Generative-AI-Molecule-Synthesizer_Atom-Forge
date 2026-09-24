@@ -1,0 +1,44 @@
+# Core
+numpy
+torch
+torch-geometric
+
+# Chemistry
+rdkit
+selfies
+pillow
+
+
+# ML utilities
+scikit-learn
+joblib
+
+# Data
+pandas
+requests
+
+# API
+fastapi
+uvicorn[standard]
+
+# Async HTTP for PubChem calls
+httpx
+
+# for iupac naming
+openbabel-wheel
+cirpy pubchempy
+
+numpy==1.26.4
+rdkit-pypi
+selfies
+scikit-learn==1.6.1
+joblib
+pandas
+requests
+fastapi
+uvicorn[standard]
+httpx
+pillow
+cirpy
+pubchempy
+openbabel-wheel
